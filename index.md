@@ -1,5 +1,7 @@
 ---
 layout: default
+comments: true
+
 ---
 
 # $ cat posts.txt
