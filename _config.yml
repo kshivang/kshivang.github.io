@@ -26,3 +26,4 @@ google: shivang.iitk@gmail.com
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+theme: jekyll-theme-architect
