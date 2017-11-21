@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kshivang github home - Articles</title>
+    <description>This is kshivang github home page</description>
+    <link>
+    http://localhost:4000</link>
+    
+      <item>
+        <title>First post</title>
+        
+          <description>Yet another Blogger</description>
+        
+        <pubDate>Tue, 21 Nov 2017 11:00:00 +0530</pubDate>
+        <link>/posts/first-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/first-post/</guid>
+      </item>
+    
+      <item>
+        <title>Kumar Shivang</title>
+        
+          <description></description>
+        
+        <pubDate>Tue, 21 Nov 2017 00:00:00 +0530</pubDate>
+        <link>/team/kumar-shivang/</link>
+        <guid isPermaLink="true">http://localhost:4000/team/kumar-shivang/</guid>
+      </item>
+    
+      <item>
+        <title>River App</title>
+        
+          <description>Technical Aspect of River App</description>
+        
+        <pubDate>Sun, 25 Jun 2017 00:00:00 +0530</pubDate>
+        <link>https://drive.google.com/file/d/0B7kLdv4Dva4ZWjVVZUdiTDlVVG8/view</link>
+        <guid isPermaLink="true">http://localhost:4000/talks/river/</guid>
+      </item>
+    
+      <item>
+        <title>Firebase Recycler View</title>
+        
+          <description>FirebaseRecyclerView with List(DatabaseRefefence) support in Kotlin(could be used seamlessly with Java as well)</description>
+        
+        <pubDate>Thu, 01 Dec 2016 00:00:00 +0530</pubDate>
+        <link>https://www.github.com/kshivang/FirebaseRecyclerView</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/firebase-recycler-view/</guid>
+      </item>
+    
+      <item>
+        <title>Fortnet AutoSign Plugin</title>
+        
+          <description>Firefox Plugin auto sign in fortinet server(on IITK network). Main script is written Python.</description>
+        
+        <pubDate>Sat, 01 Oct 2016 00:00:00 +0530</pubDate>
+        <link>https://www.github.com/kshivang/Fortinet-AutoSign-Plugin</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/fortinet-plugin/</guid>
+      </item>
+    
+      <item>
+        <title>Androidonism Webpage</title>
+        
+          <description>Blogging site made with google-polymer</description>
+        
+        <pubDate>Thu, 01 Sep 2016 00:00:00 +0530</pubDate>
+        <link>https://www.github.com/kshivang/androidonism-webpage</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/androidonism-webpage/</guid>
+      </item>
+    
+      <item>
+        <title>Firebase Database Manager</title>
+        
+          <description>This is android app, which can be used to manage firebase real time databases.</description>
+        
+        <pubDate>Fri, 12 Aug 2016 00:00:00 +0530</pubDate>
+        <link>https://www.github.com/kshivang/FirebaseDatabaseControl</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/firebase-control/</guid>
+      </item>
+    
+      <item>
+        <title>Random theory</title>
+        
+          <description>After finishing my 12th grade physics, I wrote this article</description>
+        
+        <pubDate>Sun, 01 May 2016 12:00:00 +0000</pubDate>
+        <link>/articles/random-theory/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/random-theory/</guid>
+      </item>
+    
+      <item>
+        <title>Rainbow Shots</title>
+        
+          <description>This is android Game</description>
+        
+        <pubDate>Sun, 20 Dec 2015 00:00:00 +0530</pubDate>
+        <link>https://www.github.com/kshivang/RainbowShots</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/rainbow-shots/</guid>
+      </item>
+    
+      <item>
+        <title>vim</title>
+        
+          <description>Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.</description>
+        
+        <pubDate>Thu, 26 Nov 2015 00:00:00 +0530</pubDate>
+        <link>http://www.vim.org</link>
+        <guid isPermaLink="true">http://localhost:4000/tools/vim/</guid>
+      </item>
+    
+      <item>
+        <title>Git</title>
+        
+          <description>Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.</description>
+        
+        <pubDate>Thu, 26 Nov 2015 00:00:00 +0530</pubDate>
+        <link>https://git-scm.com</link>
+        <guid isPermaLink="true">http://localhost:4000/tools/git/</guid>
+      </item>
+    
+      <item>
+        <title>Userful Scripts</title>
+        
+          <description>This repository is compilation of useful shell script mostly by me</description>
+        
+        <pubDate>Sat, 01 Aug 2015 00:00:00 +0530</pubDate>
+        <link>https://www.github.com/kshivang/usefulScript</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/useful-scripts/</guid>
+      </item>
+    
+  </channel>
+</rss>

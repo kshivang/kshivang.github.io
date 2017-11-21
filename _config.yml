@@ -1,0 +1,28 @@
+# Site specific settings
+title: "kshivang github home"
+name: "kshivang github home"
+keywords: "kshivang, Shivang, Kumar Shivang, IITK, entrepreneur, e-cell, IIT"
+baseurl: ""
+url: "http://kshivang.github.io"
+description: "This is kshivang github home page"
+cover: "/assets/img/cover.svg"
+fanpage_id: ""
+
+# Site general settings
+lang: "en"
+#lang_alternate: "hi_IN"
+ssl: false # It will redirect to https
+
+# Media
+# Just the shortname:
+# facebook: lampiaosec # Rigth
+# facebook: facebook.com/lampiaosec # Wrong
+disqus: test
+twitter: kmshivang
+facebook: km.shivang
+github: kshivang
+google: shivang.iitk@gmail.com
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/

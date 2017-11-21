@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kshivang github home</title>
+  <link href="http://localhost:4000/atom.xml" rel="self" />
+  <link href="http://localhost:4000/"/>
+  <updated>2017-11-21T16:40:05+05:30</updated>
+  <id>http://localhost:4000</id>
+  <author>
+    <name>kshivang github home</name>
+  </author>
+  
+    <entry>
+      <title>First post</title>
+      <link href="/posts/first-post/" />
+      <updated>2017-11-21T11:00:00+05:30</updated>
+      <id>/posts/first-post</id>
+      <content type="html">Yet another Blogger</content>
+    </entry>
+  
+    <entry>
+      <title>Kumar Shivang</title>
+      <link href="/team/kumar-shivang/" />
+      <updated>2017-11-21T00:00:00+05:30</updated>
+      <id>/team/kumar-shivang</id>
+      <content type="html"></content>
+    </entry>
+  
+    <entry>
+      <title>River App</title>
+      <link href="https://drive.google.com/file/d/0B7kLdv4Dva4ZWjVVZUdiTDlVVG8/view" />
+      <updated>2017-06-25T00:00:00+05:30</updated>
+      <id>/talks/river</id>
+      <content type="html">Technical Aspect of River App</content>
+    </entry>
+  
+    <entry>
+      <title>Firebase Recycler View</title>
+      <link href="https://www.github.com/kshivang/FirebaseRecyclerView" />
+      <updated>2016-12-01T00:00:00+05:30</updated>
+      <id>/projects/firebase-recycler-view</id>
+      <content type="html">FirebaseRecyclerView with List(DatabaseRefefence) support in Kotlin(could be used seamlessly with Java as well)</content>
+    </entry>
+  
+    <entry>
+      <title>Fortnet AutoSign Plugin</title>
+      <link href="https://www.github.com/kshivang/Fortinet-AutoSign-Plugin" />
+      <updated>2016-10-01T00:00:00+05:30</updated>
+      <id>/projects/fortinet-plugin</id>
+      <content type="html">Firefox Plugin auto sign in fortinet server(on IITK network). Main script is written Python.</content>
+    </entry>
+  
+    <entry>
+      <title>Androidonism Webpage</title>
+      <link href="https://www.github.com/kshivang/androidonism-webpage" />
+      <updated>2016-09-01T00:00:00+05:30</updated>
+      <id>/projects/androidonism-webpage</id>
+      <content type="html">Blogging site made with google-polymer</content>
+    </entry>
+  
+    <entry>
+      <title>Firebase Database Manager</title>
+      <link href="https://www.github.com/kshivang/FirebaseDatabaseControl" />
+      <updated>2016-08-12T00:00:00+05:30</updated>
+      <id>/projects/firebase-control</id>
+      <content type="html">This is android app, which can be used to manage firebase real time databases.</content>
+    </entry>
+  
+    <entry>
+      <title>Random theory</title>
+      <link href="/articles/random-theory/" />
+      <updated>2016-05-01T17:30:00+05:30</updated>
+      <id>/articles/random-theory</id>
+      <content type="html">After finishing my 12th grade physics, I wrote this article</content>
+    </entry>
+  
+    <entry>
+      <title>Rainbow Shots</title>
+      <link href="https://www.github.com/kshivang/RainbowShots" />
+      <updated>2015-12-20T00:00:00+05:30</updated>
+      <id>/projects/rainbow-shots</id>
+      <content type="html">This is android Game</content>
+    </entry>
+  
+    <entry>
+      <title>vim</title>
+      <link href="http://www.vim.org" />
+      <updated>2015-11-26T00:00:00+05:30</updated>
+      <id>/tools/vim</id>
+      <content type="html">Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.</content>
+    </entry>
+  
+    <entry>
+      <title>Git</title>
+      <link href="https://git-scm.com" />
+      <updated>2015-11-26T00:00:00+05:30</updated>
+      <id>/tools/git</id>
+      <content type="html">Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.</content>
+    </entry>
+  
+    <entry>
+      <title>Userful Scripts</title>
+      <link href="https://www.github.com/kshivang/usefulScript" />
+      <updated>2015-08-01T00:00:00+05:30</updated>
+      <id>/projects/useful-scripts</id>
+      <content type="html">This repository is compilation of useful shell script mostly by me</content>
+    </entry>
+  
+</feed>
