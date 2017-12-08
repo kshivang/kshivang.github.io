@@ -17,6 +17,26 @@
       </item>
     
       <item>
+        <title>First post</title>
+        
+          <description>This is my first post at kshivang blog</description>
+        
+        <pubDate>Tue, 21 Nov 2017 11:00:00 +0530</pubDate>
+        <link>/posts/template/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/template/</guid>
+      </item>
+    
+      <item>
+        <title>Bitcoin and Blockchain</title>
+        
+          <description>Blockchain and cryptocurrency 101!</description>
+        
+        <pubDate>Tue, 21 Nov 2017 11:00:00 +0530</pubDate>
+        <link>/posts/bitcoin-blockchain/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/bitcoin-blockchain/</guid>
+      </item>
+    
+      <item>
         <title>Kumar Shivang</title>
         
           <description></description>

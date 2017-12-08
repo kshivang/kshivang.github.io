@@ -3,7 +3,7 @@
   <title>kshivang github home</title>
   <link href="http://localhost:4000/atom.xml" rel="self" />
   <link href="http://localhost:4000/"/>
-  <updated>2017-11-21T18:59:16+05:30</updated>
+  <updated>2017-12-06T19:06:59+05:30</updated>
   <id>http://localhost:4000</id>
   <author>
     <name>kshivang github home</name>
@@ -15,6 +15,22 @@
       <updated>2017-11-21T11:00:00+05:30</updated>
       <id>/posts/first-post</id>
       <content type="html">Yet another Blogger</content>
+    </entry>
+  
+    <entry>
+      <title>First post</title>
+      <link href="/posts/template/" />
+      <updated>2017-11-21T11:00:00+05:30</updated>
+      <id>/posts/template</id>
+      <content type="html">This is my first post at kshivang blog</content>
+    </entry>
+  
+    <entry>
+      <title>Bitcoin and Blockchain</title>
+      <link href="/posts/bitcoin-blockchain/" />
+      <updated>2017-11-21T11:00:00+05:30</updated>
+      <id>/posts/bitcoin-blockchain</id>
+      <content type="html">Blockchain and cryptocurrency 101!</content>
     </entry>
   
     <entry>

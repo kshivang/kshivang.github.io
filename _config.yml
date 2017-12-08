@@ -23,6 +23,7 @@ facebook: km.shivang
 github: kshivang
 google: shivang.iitk@gmail.com
 
+
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
