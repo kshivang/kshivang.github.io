@@ -3,7 +3,7 @@
   <title>kshivang github home</title>
   <link href="https://kshivang.github.io/atom.xml" rel="self" />
   <link href="https://kshivang.github.io/"/>
-  <updated>2018-01-25T04:24:04+05:30</updated>
+  <updated>2018-01-25T04:29:13+05:30</updated>
   <id>https://kshivang.github.io</id>
   <author>
     <name>kshivang github home</name>
@@ -11,7 +11,7 @@
   
     <entry>
       <title>Land Reform using Blockchain</title>
-      <link href="https://slides.com/kumarshivang/land-reform-in-india/live" />
+      <link href="https://slides.com/kumarshivang/land-reform-in-india/fullscreen" />
       <updated>2017-12-16T00:00:00+05:30</updated>
       <id>/talks/land</id>
       <content type="html">Implentation of Blockchain to solve land ownership problem</content>
