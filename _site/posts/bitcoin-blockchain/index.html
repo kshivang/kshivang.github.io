@@ -36,7 +36,7 @@
 <meta property="og:title" content="kshivang github home" />
 <meta property="og:type" content="website" />
 <meta property="og:description" content="This is kshivang github home page" />
-<meta property="og:url" content="http://localhost:4000" />
+<meta property="og:url" content="https://kshivang.github.io" />
 <meta property="og:image:type" content="image/png" /> <!-- less than 5mB -->
 <meta property="og:image:width" content="600" />
 <meta property="og:image:height" content="315" />
@@ -49,7 +49,7 @@
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="kshivang github home" />
 <meta name="twitter:description" content="This is kshivang github home page" />
-<meta name="twitter:url" content="http://localhost:4000" />
+<meta name="twitter:url" content="https://kshivang.github.io" />
 <meta name="twitter:image" content="/assets/img/cover.svg" />
 <meta name="twitter:author" content="kmshivang" />
 
@@ -165,8 +165,16 @@ Digital currency is a type of currency available only in digital form, not in ph
 <div align="center"><img src="/assets/img/DistributedChain.jpg" alt="Cryptocurrency" width="60%" height="60%" /></div>
 <p>Though blockchain structure provide some security to indepth data, but with adequate amount of hashing power owner of node(computer where blockchain is hosted) can change the content of specific block of blockchain. To overcome this shortcoming there is another dimension to blockchain i.e. multiple instances of blockchain is distributed among several nodes(computers). Due to distribution there would be another layer of security, i.e. only those node would be valid which has last node <em>Previous Block Hash</em> with most of the remaining node. This way given 50% node are correct node system would retain correct blockchain.</p>
 
+<h3 id="blockchain-transaction-a-irreversible-transaction">Blockchain Transaction: A irreversible transaction</h3>
+<p>A transaction in blockchain is a transfer of asset value that is broadcasted to the network and collected into blocks. Typically a transaction references previous transactin outputs as new transaction input and dedicates all input bitcoin values to new outputs. Transactions are not encrypted, so it is possible to browse and view every transaction ever collected into a block. A transaction can hold any kind of metadata in itself. Whether it be <em>smart contract</em> or simple text.</p>
+
 <h3 id="blockchain-mining-adding-a-block-in-blockchain">Blockchain Mining: Adding a block in blockchain</h3>
-<p>Process of adding block to a blockchain is called mining. This could implemented in several ways, but central idea of mining is to adding new block in such a way that it has all valid transactions in block itself and over other blocks. Another important aspect of mining is to add only to the most recent block, which is accepted by the most of the nodes.</p>
+<p>Process of addition of a block to a blockchain is called mining. This could implemented in several ways, but central idea of mining is to add new block in such a way that it has all valid transactions in and across blocks. Another important aspect of mining is to add new block only on the most recent and accepted block(block which is accepted by most of the block). To validate wheather a transaction is valid across blocks, blockchain node(computer) contain <em>Unspend Transaction Output Pool</em> whic contain all the <em>Unspend Transaction Output</em>(UTXO) data. Hence while acceptiing a block in a blockchain every node verify all the transactions by checking wheather input to trasaction exist in UTXO and wheather output to transaction not exceeding input to that transaction.</p>
+
+<p>UTXO contain information of <em>amount</em>, <em>signature of owner</em>, <em>last trasaction hash</em>, <em>last transaction block</em>, <em>path of markle tree</em>, etc.</p>
+
+<p>To add new block in a blockchain there should be nuleation node which add block to its chain and ask its neareast nodes in network to do the same. If block get propogated to most of the nodes then one can say block is a part of blockchain.</p>
+
 
 
 		</main>

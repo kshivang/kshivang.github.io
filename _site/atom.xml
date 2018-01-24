@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>kshivang github home</title>
-  <link href="http://localhost:4000/atom.xml" rel="self" />
-  <link href="http://localhost:4000/"/>
-  <updated>2017-12-06T19:06:59+05:30</updated>
-  <id>http://localhost:4000</id>
+  <link href="https://kshivang.github.io/atom.xml" rel="self" />
+  <link href="https://kshivang.github.io/"/>
+  <updated>2018-01-25T04:24:04+05:30</updated>
+  <id>https://kshivang.github.io</id>
   <author>
     <name>kshivang github home</name>
   </author>
+  
+    <entry>
+      <title>Land Reform using Blockchain</title>
+      <link href="https://slides.com/kumarshivang/land-reform-in-india/live" />
+      <updated>2017-12-16T00:00:00+05:30</updated>
+      <id>/talks/land</id>
+      <content type="html">Implentation of Blockchain to solve land ownership problem</content>
+    </entry>
   
     <entry>
       <title>First post</title>
@@ -15,14 +23,6 @@
       <updated>2017-11-21T11:00:00+05:30</updated>
       <id>/posts/first-post</id>
       <content type="html">Yet another Blogger</content>
-    </entry>
-  
-    <entry>
-      <title>First post</title>
-      <link href="/posts/template/" />
-      <updated>2017-11-21T11:00:00+05:30</updated>
-      <id>/posts/template</id>
-      <content type="html">This is my first post at kshivang blog</content>
     </entry>
   
     <entry>
