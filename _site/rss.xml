@@ -57,6 +57,16 @@
       </item>
     
       <item>
+        <title>River App: Beginning</title>
+        
+          <description>This product won 2nd runner up prize in this event</description>
+        
+        <pubDate>Sun, 23 Apr 2017 00:00:00 +0530</pubDate>
+        <link>https://drive.google.com/file/d/0B7kLdv4Dva4ZWjVVZUdiTDlVVG8/view</link>
+        <guid isPermaLink="true">https://kshivang.github.io/talks/river/</guid>
+      </item>
+    
+      <item>
         <title>Firebase Recycler View</title>
         
           <description>FirebaseRecyclerView with List(DatabaseRefefence) support in Kotlin(could be used seamlessly with Java as well)</description>

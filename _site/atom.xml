@@ -3,7 +3,7 @@
   <title>kshivang github home</title>
   <link href="https://kshivang.github.io/atom.xml" rel="self" />
   <link href="https://kshivang.github.io/"/>
-  <updated>2018-01-25T04:29:13+05:30</updated>
+  <updated>2018-01-25T04:34:03+05:30</updated>
   <id>https://kshivang.github.io</id>
   <author>
     <name>kshivang github home</name>
@@ -47,6 +47,14 @@
       <updated>2017-06-25T00:00:00+05:30</updated>
       <id>/talks/river</id>
       <content type="html">Technical Aspect of River App</content>
+    </entry>
+  
+    <entry>
+      <title>River App: Beginning</title>
+      <link href="https://drive.google.com/file/d/0B7kLdv4Dva4ZWjVVZUdiTDlVVG8/view" />
+      <updated>2017-04-23T00:00:00+05:30</updated>
+      <id>/talks/river</id>
+      <content type="html">This product won 2nd runner up prize in this event</content>
     </entry>
   
     <entry>
