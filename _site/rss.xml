@@ -17,13 +17,13 @@
       </item>
     
       <item>
-        <title>First post</title>
+        <title>Hello World!</title>
         
           <description>Yet another Blogger</description>
         
         <pubDate>Tue, 21 Nov 2017 11:00:00 +0530</pubDate>
-        <link>/posts/first-post/</link>
-        <guid isPermaLink="true">https://kshivang.github.io/posts/first-post/</guid>
+        <link>/posts/hello-world/</link>
+        <guid isPermaLink="true">https://kshivang.github.io/posts/hello-world/</guid>
       </item>
     
       <item>
@@ -57,7 +57,7 @@
       </item>
     
       <item>
-        <title>River App: Beginning</title>
+        <title>River App: The Beginning</title>
         
           <description>This product won 2nd runner up prize in this event</description>
         

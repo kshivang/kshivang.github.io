@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post
+title: "Hello World!"
 date: 2017-11-21 11:00:00 +0530
 categories: posts
 comments: true

@@ -3,7 +3,7 @@
   <title>kshivang github home</title>
   <link href="https://kshivang.github.io/atom.xml" rel="self" />
   <link href="https://kshivang.github.io/"/>
-  <updated>2018-01-25T04:34:03+05:30</updated>
+  <updated>2018-01-25T04:38:23+05:30</updated>
   <id>https://kshivang.github.io</id>
   <author>
     <name>kshivang github home</name>
@@ -18,10 +18,10 @@
     </entry>
   
     <entry>
-      <title>First post</title>
-      <link href="/posts/first-post/" />
+      <title>Hello World!</title>
+      <link href="/posts/hello-world/" />
       <updated>2017-11-21T11:00:00+05:30</updated>
-      <id>/posts/first-post</id>
+      <id>/posts/hello-world</id>
       <content type="html">Yet another Blogger</content>
     </entry>
   
@@ -50,7 +50,7 @@
     </entry>
   
     <entry>
-      <title>River App: Beginning</title>
+      <title>River App: The Beginning</title>
       <link href="https://drive.google.com/file/d/0B7kLdv4Dva4ZWjVVZUdiTDlVVG8/view" />
       <updated>2017-04-23T00:00:00+05:30</updated>
       <id>/talks/river</id>
