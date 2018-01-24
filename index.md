@@ -4,7 +4,7 @@ comments: true
 
 ---
 
-# $ cat posts.txt
+# $ cat blogs.txt
 {:id="posts"}
 
 <ul>
