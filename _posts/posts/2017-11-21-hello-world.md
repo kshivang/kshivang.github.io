@@ -35,11 +35,11 @@ Again in this project problem remain the same, website was static and whenever I
 
 ## [Kshivang Github IO](https://kshivang.github.io)
 
-Finally I developed this blogger after realising the need of blogs to showcase as well track everyday gist. I decided to use old but reliable way to make blogs that is [Jekyll](http://Jekyllrb.com). It is a blog-aware, static site generator in Ruby. Though this also genereate static sites, but it convert markdown file to html code and markdown is greate way to document anything as it is like extension to plaintext.
+Finally I developed this blogger after realising the need of blogs to showcase as well as track everyday gist. I decided to use old but reliable way to make blogs that is [Jekyll](http://Jekyllrb.com). It is a blog-aware, static site generator in Ruby. Though this also genereate static sites, but it convert markdown file to html code and markdown is great way to document anything as it is like extension to plaintext.
 
 And after employing continuous integration it can be conneted to storage buckets as well hence blogger can automatically detect new post and updates.
 
-It also has a great plugin support, so I can leverage social plugins to connect my blogs to social sites like facebook, and likedin.
+It also has a great plugin support, so I can leverage social plugins to connect my blogs to social sites like facebook, and linkedin.
 
 
 
