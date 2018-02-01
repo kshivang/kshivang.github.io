@@ -19,7 +19,7 @@ Physical money has physical volume due to which it can not be spent twice. But d
 
 ### [Double spending attack](https://en.bitcoin.it/wiki/Irreversible_Transactions)
 <div align="center"><img src="/assets/img/double.jpeg" alt="Cryptocurrency" width="60%" height="60%" /></div>
-A double spend is an attack where the currency is spent in more than one transaction. There are couple of ways in which double spend attack could be performed, some are:
+A double spend is an attack where the currency is spent in more than one transaction. There are couple of ways in which double spend attack could be performed, some common ways are:
 * Perform two conflicting transaction in rapid succession
 * Spending currency before legalizing it
 

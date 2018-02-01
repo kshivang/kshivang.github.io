@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>kshivang github home</title>
-  <link href="https://kshivang.github.io/atom.xml" rel="self" />
-  <link href="https://kshivang.github.io/"/>
-  <updated>2018-01-27T04:33:04+05:30</updated>
-  <id>https://kshivang.github.io</id>
+  <link href="http://localhost:4000/atom.xml" rel="self" />
+  <link href="http://localhost:4000/"/>
+  <updated>2018-01-27T04:34:40+05:30</updated>
+  <id>http://localhost:4000</id>
   <author>
     <name>kshivang github home</name>
   </author>
